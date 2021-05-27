@@ -187,4 +187,4 @@ Finally the numbers are returned as field 1, field 2 and field 3.
 
 You can also now go to the `Live Data` tab on your The Things Stack application to see the data being sent, just like before, but now the "decoded" values are shown as well.
 
-![Decoded Payload](readme-images/decoded-payload.jpg)
+
